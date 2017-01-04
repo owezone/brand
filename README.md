@@ -30,9 +30,9 @@ The avatar is the official social face of [owe.zone](https://owe.zone).
 
 ![Avatar](logo/avatar/avatar.png)
 
-[jpg](logo/avatar/avatar.jpg) / [jpg@2x](logo/avatar/avatar@2x.jpg) / [jpg@3x](logo/avatar/avatar@3x.jpg) / [jpg-large](logo/avatar/avatar.jpg)
-
 [png](logo/avatar/avatar.png) / [png@2x](logo/avatar/avatar@2x.png) / [png@3x](logo/avatar/avatar@3x.png) / [png-large](logo/avatar/avatar.png)
+
+[jpg](logo/avatar/avatar.jpg) / [jpg@2x](logo/avatar/avatar@2x.jpg) / [jpg@3x](logo/avatar/avatar@3x.jpg) / [jpg-large](logo/avatar/avatar.jpg)
 
 ### [Source File](logo/logo.afdesign)
 The source .afdesign file contains all versions and predefined export slices for each of them.
