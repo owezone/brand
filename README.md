@@ -28,7 +28,7 @@ The white logo has a transparent background is intendet for the use on dark back
 ### [Avatar](logo/avatar/avatar.png)
 The avatar is the official social face of [owe.zone](https://owe.zone).
 
-![Avatar](logo/avatar/Avatar.png)
+![Avatar](logo/avatar/avatar.png)
 
 [jpg](logo/avatar/avatar.jpg) / [jpg@2x](logo/avatar/avatar@2x.jpg) / [jpg@3x](logo/avatar/avatar@3x.jpg) / [jpg-large](logo/avatar/avatar.jpg)
 
