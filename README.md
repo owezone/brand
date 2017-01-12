@@ -4,7 +4,7 @@ This repository contains all kinds of brand resources for [owe.zone](https://owe
 ## Logo
 
 ### [Blue Logo](logo/blue-logo/blue-logo.png)
-The blue logo has a white background is intendet for the use on light backgrounds.
+The blue logo has a white background is intended for the use on light backgrounds.
 
 ![Blue Logo](logo/blue-logo/blue-logo-120.png)
 
@@ -15,7 +15,7 @@ The blue logo has a white background is intendet for the use on light background
 
 
 ### [White Logo](logo/white-logo/white-logo.png)
-The white logo has a transparent background is intendet for the use on dark backgrounds.
+The white logo has a transparent background is intended for the use on dark backgrounds.
 
 ![White Logo](logo/white-logo/white-logo-120.png)
 
